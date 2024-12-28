@@ -1,3 +1,13 @@
 Nidhi Patel's portfolio
 
-https://github.com/Nidhi266/WebScrapingSoup
+
+Table of Contents
+About
+
+Portfolio Projects
+
+
+Excel 
+https://github.com/Nidhi266/CoffeeSalesDashboardExcel
+
+
