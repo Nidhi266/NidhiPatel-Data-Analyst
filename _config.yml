@@ -23,7 +23,7 @@ plugins:
 # in order as they should show up.
 header_pages:
   - excel.md
-  - Projects/excel.md
+  - Projects
 
 
 
