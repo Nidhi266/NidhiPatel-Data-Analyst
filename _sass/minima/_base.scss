@@ -249,7 +249,7 @@ pre {
 
 /**
  * Tables
- */
+ 
 table {
   margin-bottom: $spacing-unit;
   width: 100%;
@@ -272,7 +272,7 @@ table {
   td {
     border: 1px solid $table-border-color;
   }
-
+*/
   @include media-query($on-laptop) {
     display: block;
     overflow-x: auto;
