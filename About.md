@@ -1,7 +1,7 @@
 ---
 layout: page
-title: excel
-permalink: /excel/
+title: About
+permalink: /About/
 ---
 
 hello
