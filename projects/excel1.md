@@ -1,5 +1,5 @@
 ---
-layout: Default
+layout: page
 title: excel
 permalink: /projects/excel1/
 ---
