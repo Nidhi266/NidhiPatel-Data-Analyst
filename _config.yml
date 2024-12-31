@@ -32,7 +32,7 @@ include:
 # in order as they should show up.
 header_pages:
   - About.md
-  - projects.md
+  - project.md
   
 
 # Set to `true` to show excerpts on the homepage.
