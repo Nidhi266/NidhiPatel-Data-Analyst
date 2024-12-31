@@ -30,8 +30,8 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages_path:
-  - "/about/"
-  - "/projects/excel/"
+  - "_pages/about/"
+  - "_pages/projects/excel/"
   
 
 # Set to `true` to show excerpts on the homepage.
