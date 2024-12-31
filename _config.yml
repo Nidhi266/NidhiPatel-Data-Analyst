@@ -31,7 +31,7 @@ plugins:
 # in order as they should show up.
 header_pages_path:
   - "/_pages/"
-  - "/_pages/projects/excel"
+  - "/_pages/projects/excel/"
   
 
 # Set to `true` to show excerpts on the homepage.
