@@ -33,6 +33,7 @@ header_pages:
   - About.md
   - projects.md
   - projects/excel1.md
+  - /projects/
   
 
 # Set to `true` to show excerpts on the homepage.
