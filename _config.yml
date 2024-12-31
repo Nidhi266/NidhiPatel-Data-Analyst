@@ -32,7 +32,7 @@ plugins:
 header_pages_path:
   - "/about/"
   - "/projects/"
-  - "/projects/excel1/"
+  - "/projects/excel/"
   
 
 # Set to `true` to show excerpts on the homepage.
