@@ -30,7 +30,7 @@ plugins:
 # in order as they should show up.
 header_pages:
   - About.md
-  - /Projects/excel1.md
+  - Projects/excel1.md
   
 
 # Set to `true` to show excerpts on the homepage.
