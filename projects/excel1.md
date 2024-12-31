@@ -1,7 +1,7 @@
 ---
 layout: page
 title: excel
-permalink: /projects/excel1/
+permalink: /projects/excel1.md/
 ---
 
 
