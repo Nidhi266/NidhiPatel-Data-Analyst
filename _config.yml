@@ -30,7 +30,7 @@ plugins:
 # in order as they should show up.
 header_pages:
   - About.md
-  - excel.md
+  - excel1.md
   - /Projects/excel1.md
   
 
