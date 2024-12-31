@@ -24,11 +24,7 @@
             {%- endif -%}
           {%- endfor -%}
 
-          <!-- Loop through the 'projects' directory specifically -->
-          {%- assign projects_pages = site.pages | where: "path", "/projects/" %}
-          {%- for project in projects_pages -%}
-            <a class="page-link" href="{{ project.url | relative_url }}">{{ project.title | escape }}</a>
-          {%- endfor -%}
+       
         </div>
       </nav>
     {%- endif -%}
